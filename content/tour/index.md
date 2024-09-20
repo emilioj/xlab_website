@@ -8,9 +8,9 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
+      - title: Computer Graphics
+        content: "We delve into the creation of sophisticated algorithms and models to enhance the generation and manipulation of visual content. Our work spans a wide range of applications, from realistic image synthesis to procedural content generation and digital twins. We are keenly interested in exploring advanced ray-tracing methods to achieve photorealistic rendering, focusing on acceleration structures, global illumination, noise reduction and real-time rendering. Our goal is to push the boundaries of visual fidelity and performance."
+        align: left
         background:
           image:
             filename: coders.jpg
@@ -18,18 +18,18 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Scientific Visualization and High-Performance Computing
+        content: "Our research aims to transform complex scientific data into intuitive and insightful visual representations. We develop novel visualization techniques that aid in the understanding and analysis of large-scale scientific phenomena. We have developed relevant advances in volume rendering, specializing in the visualization of volumetric data, we created efficient and effective rendering techniques that provided high-quality visualizations of 3D scalar fields, commonly used in medical imaging, fluid dynamics, and other scientific domains."
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: manix_large_9k.png
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Virtual Reality (VR)
+        content: "Our VR research encompasses the development of immersive environments and interaction techniques that offer compelling and interactive experiences. We work on enhancing the realism and usability of VR systems for a wide array of applications, including education, medical visualization and entertainment."
         align: right
         background:
           image:
