@@ -1,25 +1,27 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: José A. Iglesias-Guitián
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: José Antonio
+last_name: Iglesias Guitián
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - jalley
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Investigador contratado no programa Ramón y Cajal (PR-RC)
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Universidade da Coruña
+    url: 'https://www.udc.es'
+  - name: CITIC
+    url: 'https://citic.udc.es'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -48,16 +50,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:j.iglesias.guitian@udc.es'
+  - icon: university
+    icon_pack: fa
+    link: https://pdi.udc.es/en/File/Pdi/FG72G
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=oeFmZ98AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/j4lley
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/j4lley
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,8 +75,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Head Researcher
+  - Senior Researchers
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
