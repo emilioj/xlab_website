@@ -1,22 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-09-17
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Computer Graphics & Visual Computing Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+
+        The Computer Graphics & Visual Computing Lab (Xlab) is an interdisciplinary team committed to advancing the state-of-the-art in visual computing and exploring innovative solutions to complex scientific and technical challenges. 
+
   - block: collection
     content:
       title: Latest News
